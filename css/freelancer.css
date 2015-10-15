@@ -1,0 +1,84 @@
+/*Tamañao texto , SUPERSTAR*/
+
+.title-one{
+	font-size: 500%;
+}
+/*Paddings y margins*/
+
+.p-10{
+	padding:10%;
+}
+.p-5{
+	padding: 5%;
+}
+.p-2{
+	padding: 2%;
+}
+.m-bottom{
+	margin-bottom: 5%;
+}
+.m-top{
+	margin-top: 2%;
+}
+/*Texto-blanco*/
+.text-white{
+	color:white;
+}
+/*Texto, grande*/
+.text-large{
+	font-size: 120%;
+}
+/*redes sociales*/
+.icon-circle{
+	border: 1px white solid;
+	border-radius: 100%;
+	width: 40px;
+	height: 40px;
+	margin: 1%;
+}
+.centered{
+	margin-top:40%;
+}
+/*Botón de donwnload*/
+.download{
+	color:#2c3e50;
+	border:white 2px solid;
+	font-size: 120%;
+	padding: 2%;
+	border-radius: 20px;
+}
+/*Color de fondo copyright*/
+.footer-color{
+	background-color: #1C313D!important;
+	color:white;
+	text-align: center;
+	padding: 2%;
+}
+/*Estrella*/
+.star-line{
+	border-top:solid 2px white;
+	width: 25%;
+	margin: auto;
+
+}
+
+.border-star{
+	border:8px solid #18bc9c;
+	background-color: #18bc9c;
+	font-size: 150%;
+	margin-top: -3%;
+}
+
+.star-line-2{
+	border-top:solid 2px #2c3e50;
+	width: 25%;
+	margin: auto;
+
+}
+
+.border-star-2{
+	border:8px solid white;
+	background-color: white;
+	font-size: 150%;
+	margin-top: -3%;
+}
